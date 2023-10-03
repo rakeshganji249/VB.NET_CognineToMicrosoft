@@ -1,0 +1,14 @@
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\bin\Debug\net7.0\DataAccessConversion.exe
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\bin\Debug\net7.0\DataAccessConversion.deps.json
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\bin\Debug\net7.0\DataAccessConversion.runtimeconfig.json
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\bin\Debug\net7.0\DataAccessConversion.dll
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\bin\Debug\net7.0\DataAccessConversion.pdb
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\obj\Debug\net7.0\DataAccessConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\obj\Debug\net7.0\DataAccessConversion.AssemblyInfoInputs.cache
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\obj\Debug\net7.0\DataAccessConversion.AssemblyInfo.vb
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\obj\Debug\net7.0\DataAccessConversion.vbproj.CoreCompileInputs.cache
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\obj\Debug\net7.0\DataAccessConversion.dll
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\obj\Debug\net7.0\refint\DataAccessConversion.dll
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\obj\Debug\net7.0\DataAccessConversion.pdb
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\obj\Debug\net7.0\DataAccessConversion.genruntimeconfig.cache
+C:\Users\rakes\source\repos\DataAccessConversion\DataAccessConversion\obj\Debug\net7.0\ref\DataAccessConversion.dll
